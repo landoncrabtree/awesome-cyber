@@ -59,4 +59,22 @@ https://github.com/trustedsec/social-engineer-toolkit - Social engineering frame
 
 ### Credential Dumping
 
-## Blue Team (Coming Soon)
+## Blue Team (WIP)
+
+### Deobfuscation
+* <https://github.com/de4dot/de4dot> - .NET deobfuscator and unpacker.
+* <https://github.com/horsicq/XPEViewer> - PE file viewer (headers, libraries, strings, etc).
+* <https://github.com/NotPrab/.NET-Deobfuscator/blob/master/README.md> - List of unpackers for specific packers.
+* <https://github.com/wildcardc/cfxc-deobf> - ConfuserEx unpacker.
+* <https://github.com/ViRb3/de4dot-cex> - ConfuserEx unpacker.
+* <https://github.com/undebel/NoFuserEx> - ConfuserEx unpacker.
+* <https://github.com/landoncrabtree/UnconfuserExTools> - ConfuserEx toolkit (old).
+* <https://github.com/R3MRUM/PSDecode> - PowerShell deobfuscator. 
+
+### Reverse Engineering
+* <https://github.com/dnSpy/dnSpy> - .NET debugger and editor.
+* <https://github.com/NationalSecurityAgency/ghidra> - Disassembler and decompiler for multiple executable formats.
+* <https://github.com/rizinorg/cutter> - Disassembler and decompiler for multiple executable formats, based on Rizin.
+* <https://github.com/rizinorg/rizin> - CLI disassembler.
+* <https://www.sourceware.org/gdb/> - CLI debugger.
+* <https://github.com/hugsy/gef> - GDB addon with advanced features -- GDB Enhanced Features.
