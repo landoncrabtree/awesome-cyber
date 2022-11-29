@@ -102,8 +102,17 @@ Repository | Description
 Repository | Description
 ---- | ----
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and editor.
+[IDA](https://www.hex-rays.com/products/ida/index.shtml)  | Disassembler and decompiler for multiple executable formats.
 [ghidra](https://github.com/NationalSecurityAgency/ghidra)  | Disassembler and decompiler for multiple executable formats.
 [cutter](https://github.com/rizinorg/cutter)  | Disassembler and decompiler for multiple executable formats, based on Rizin.
 [rizin](https://github.com/rizinorg/rizin)  | CLI disassembler.
 [gdb](https://www.sourceware.org/gdb/)  | CLI debugger.
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
+[hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
+
+### Malware Analysis
+Repository | Description
+---- | ----
+[Cuckoo](https://cuckoosandbox.org/)  | Automated dynamic malware analysis.
+[Wireshark](https://www.wireshark.org/download.html)  | View incoming and outgoing network connections.
+
