@@ -1,5 +1,17 @@
 # Awesome Cyber
-A curated list of tools useful within the field of cyber security, for both blue and red team operations. 
+A curated list of awesome cybersecurity tools for both red, blue, and purple team operations.
+
+## General
+
+### Other awesome-Collections
+If you are looking for more specific information and/or tools, this contains a list of resource collections.
+Repository | Description
+---- | ----
+[awesome-reversing](https://github.com/tylerha97/awesome-reversing)  |  A curated list of awesome reversing resources.
+[awesome-hacking](https://github.com/carpedm20/awesome-hacking) | A list of hacking resources and tools: RE, web, forensics, etc.
+[awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT.
+[awesome-pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools and other shiny things.
+[awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering)  | A curated list of awesome social engineering resources. 
 
 ## Red Team
 
