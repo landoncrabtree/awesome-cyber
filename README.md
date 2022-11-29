@@ -91,16 +91,21 @@ Repository | Description
 [GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
 [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) | Advanced password spraying tool for Active Directory environments.
 [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) | Bruteforcer with multiple protocol support.
-[Cobalt Strike](https://www.cobaltstrike.com/)  | C2 framework which can generate payloads to be used in phishing attacks.
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
-[Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.  
+[Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.
+
+### C2 Frameworks
+C2 frameworks can be considered both initial access and post-exploitation, as they generate payloads to be used in phishing campaigns (initial access) and will provide access to the host machine when ran (post exploitation).
+Repository | Description
+---- | ----
+[Cobalt Strike](https://www.cobaltstrike.com/)  | Most robust and advanced C2 framework (also paid).
+[Pupy](https://github.com/n1nj4sec/pupy)  | Python and C C2 framework.
+[Villain](https://github.com/t3l3machus/Villain)  | Python and Powershell C2 framework.
+[Sliver](https://github.com/BishopFox/sliver) | Go C2 framework.
 
 ### Post Exploitation
 Repository | Description
 ---- | ----
-[Villain](https://github.com/t3l3machus/Villain)  | Windows and Linux backdoor generator based on HoaxShell.
-[Cobalt Strike](https://www.cobaltstrike.com/)  | C2 framework.
-[Sliver](https://github.com/BishopFox/sliver) | C2 framework.
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful in Windows environments: psexec, smbexec, kerberoasting, ticket attacks, etc.
 [Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
