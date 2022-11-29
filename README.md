@@ -108,7 +108,7 @@ Repository | Description
 ---- | ----
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.
-[PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
+[PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 [Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
 [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
 [BeRoot](https://github.com/AlessandroZ/BeRoot) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
