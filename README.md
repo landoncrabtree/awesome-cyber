@@ -1,4 +1,4 @@
-# Awesome Cyber
+# awesome-cyber
 A curated list of awesome cybersecurity tools for both red, blue, and purple team operations.
 
 ## General
