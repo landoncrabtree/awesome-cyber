@@ -107,8 +107,18 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
-[Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful in Windows environments: psexec, smbexec, kerberoasting, ticket attacks, etc.
+[Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.
+[PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 [Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
+[PEASS-ng](https://github.com/carlospolop/PEASS-ng) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
+[BeRoot](https://github.com/AlessandroZ/BeRoot) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
+[PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) | Automated Windows privilege escalation path discovery tool.
+[Invoke-PrivescCheck](https://github.com/itm4n/PrivescCheck)  | Automated Windows privilege escalation path discovery tool.
+[LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) | Microsoft-signed binaries to perform APT or red-team functions (ie: dumping process memory).
+[GTFOBins](https://gtfobins.github.io/) | Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+[BloodHound](https://github.com/BloodHoundAD/BloodHound)  | Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.
+[SharpHound](https://github.com/BloodHoundAD/SharpHound)  | Data ingestor for BloodHound.
+[PowerHub](https://github.com/AdrianVollmer/PowerHub) | Post-exploitation module for bypassing endpoint protection and running arbitrary files.
 
 ### Exfiltration
 
