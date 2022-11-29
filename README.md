@@ -12,7 +12,7 @@ OS | Description
 [Parrot](https://www.parrotsec.org/)  | Parrot Security (ParrotOS, Parrot) is a Free and Open source GNU/Linux distribution based on Debian Stable designed for security experts, developers and privacy aware people.
 
 ### Other awesome-Collections
-If you are looking for more specific information and/or tools, this contains a list of resource collections.
+This repository is just a brief (and generalized) list of resources and tools for both sides of cyber: blue and red team operations. As such, this is not meant to be in-depth resources. If you are looking for more specific information and/or tools, this contains a list of resource collections.
 Repository | Description
 ---- | ----
 [awesome-reversing](https://github.com/tylerha97/awesome-reversing)  |  A curated list of awesome reversing resources.
