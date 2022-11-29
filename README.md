@@ -3,6 +3,14 @@ A curated list of awesome cybersecurity tools for both red, blue, and purple tea
 
 ## General
 
+### Operating Systems
+OS | Description
+---- | ----
+[Kali](https://www.kali.org/) | Open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing.
+[REMnux](https://remnux.org/) | Linux toolkit for reverse engineering malware.
+[FlareVM](https://github.com/mandiant/flare-vm) | Windows distribution for malware analysis and incident response.
+[Parrot](https://www.parrotsec.org/)  | Parrot Security (ParrotOS, Parrot) is a Free and Open source GNU/Linux distribution based on Debian Stable designed for security experts, developers and privacy aware people.
+
 ### Other awesome-Collections
 If you are looking for more specific information and/or tools, this contains a list of resource collections.
 Repository | Description
@@ -12,10 +20,13 @@ Repository | Description
 [awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT.
 [awesome-pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools and other shiny things.
 [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering)  | A curated list of awesome social engineering resources. 
+[awesome-asset-discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)  | List of Awesome Asset Discovery Resources.
+[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools for incident response.
+[awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)  | List of Awesome Red Teaming Resources.
 
 ## Red Team
 
-### Obfuscation / AV Bypass
+### Defense Evasion
 Repository | Description
 ---- | ----
 [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation>)  | PowerShell module for obfuscating PowerShell scripts to bypass AV/EDR solutions.
@@ -58,6 +69,7 @@ Repository | Description
 [Raccoon](https://github.com/evyatarmeged/Raccoon)  | All-in-one Reconaissance. Port/service scans, dirbusting, and web application retrieval.
 [altdns](https://github.com/infosec-au/altdns)  | Subdomain enumeration using mutated wordlists.
 [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) | Enumerate AWS S3 buckets to find interesting files.
+[subfinder](https://github.com/projectdiscovery/subfinder)  | Passive subdomain discovery tool.
 
 ### Social Engineering
 Repository | Description
@@ -75,10 +87,20 @@ Repository | Description
 ### Initial Access
 Repository | Description
 ---- | ----
+[GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
 [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) | Advanced password spraying tool for Active Directory environments.
 [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) | Bruteforcer with multiple protocol support.
+[Cobalt Strike](https://www.cobaltstrike.com/)  | C2 framework which can generate payloads to be used in phishing attacks.
+[Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
+[Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.  
 
 ### Post Exploitation
+[Villain](https://github.com/t3l3machus/Villain)  | Windows and Linux backdoor generator based on HoaxShell.
+[Cobalt Strike](https://www.cobaltstrike.com/)  | C2 framework.
+[Sliver](https://github.com/BishopFox/sliver) | C2 framework.
+[Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
+[Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful in Windows environments: psexec, smbexec, kerberoasting, ticket attacks, etc.
+[Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
 
 ### Exfiltration
 
@@ -109,6 +131,7 @@ Repository | Description
 [gdb](https://www.sourceware.org/gdb/)  | CLI debugger.
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
+[Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Detect file type and packer used.
 
 ### Malware Analysis
 Repository | Description
