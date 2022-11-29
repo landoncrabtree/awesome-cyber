@@ -23,6 +23,7 @@ Repository | Description
 [awesome-asset-discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)  | List of Awesome Asset Discovery Resources.
 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools for incident response.
 [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)  | List of Awesome Red Teaming Resources.
+[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)  | A curated list of awesome malware analysis tools and resources.
 
 ## Red Team
 
