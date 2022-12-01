@@ -91,6 +91,7 @@ Repository | Description
 [GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
 [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) | Advanced password spraying tool for Active Directory environments.
 [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) | Bruteforcer with multiple protocol support.
+[Medusa](https://github.com/jmk-foofus/medusa)  | Bruteforcer with multiple protocol support.
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.
 
@@ -119,6 +120,8 @@ Repository | Description
 [BloodHound](https://github.com/BloodHoundAD/BloodHound)  | Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.
 [SharpHound](https://github.com/BloodHoundAD/SharpHound)  | Data ingestor for BloodHound.
 [PowerHub](https://github.com/AdrianVollmer/PowerHub) | Post-exploitation module for bypassing endpoint protection and running arbitrary files.
+[smbmap](https://github.com/ShawnDEvans/smbmap) | Enumerates SMB shares.
+[smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | Allows connection to the SMB protocol.
 
 ### Exfiltration
 
