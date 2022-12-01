@@ -71,12 +71,15 @@ Repository | Description
 [altdns](https://github.com/infosec-au/altdns)  | Subdomain enumeration using mutated wordlists.
 [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) | Enumerate AWS S3 buckets to find interesting files.
 [subfinder](https://github.com/projectdiscovery/subfinder)  | Passive subdomain discovery tool.
+[CloudBrute](https://github.com/0xsha/CloudBrute) | Enumerates "the cloud" (Google, AWS, DigitalOcean, etc) to find infrastructure, files, and apps for a given target.
+[DNSDumpster](https://dnsdumpster.com/) | Online tool for DNS information of a domain.
 
 ### Social Engineering
 Repository | Description
 ---- | ----
 [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)  | Social engineering framework. 
 [GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
+[SpoofCheck](https://github.com/BishopFox/spoofcheck) | Checks if a domain can be spoofed.
 
 ### Leaked Credentials
 Repository | Description
@@ -94,6 +97,7 @@ Repository | Description
 [Medusa](https://github.com/jmk-foofus/medusa)  | Bruteforcer with multiple protocol support.
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.
+[Easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) | Automatic Metasploit payload generator and shell listener.
 
 ### C2 Frameworks
 C2 frameworks can be considered both initial access and post-exploitation, as they generate payloads to be used in phishing campaigns (initial access) and will provide access to the host machine when ran (post exploitation).
