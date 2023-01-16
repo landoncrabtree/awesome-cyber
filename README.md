@@ -35,6 +35,7 @@ Repository | Description
 [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)  | Used to bypass PowerShell security (logging, AMSI, etc).
 [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation>)  | PowerShell module for obfuscating PowerShell scripts to bypass AV/EDR solutions.
 [UPX](https://upx.github.io/) | PE packer.
+[Unprotect](https://unprotect.it) | Contains malware evasion techniques along with PoC. 
 
 ### OSINT
 Repository | Description
