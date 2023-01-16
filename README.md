@@ -24,6 +24,7 @@ Repository | Description
 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools for incident response.
 [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)  | List of Awesome Red Teaming Resources.
 [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)  | A curated list of awesome malware analysis tools and resources.
+[awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
 
 ## Red Team
 
@@ -158,6 +159,7 @@ Repository | Description
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
 [IDA](https://www.hex-rays.com/products/ida/index.shtml)  | Disassembler and decompiler for multiple executable formats.
 [rizin](https://github.com/rizinorg/rizin)  | CLI disassembler.
+[awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
 
 ### Malware Analysis
 Repository | Description
