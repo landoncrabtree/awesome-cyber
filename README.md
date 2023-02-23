@@ -145,21 +145,22 @@ Repository | Description
 [Packer-specific Unpackers](https://github.com/NotPrab/.NET-Deobfuscator/blob/master/README.md) | List of unpackers for specific packers.
 [PSDecode](https://github.com/R3MRUM/PSDecode)  | PowerShell deobfuscator. 
 [UnconfuserExTools](https://github.com/landoncrabtree/UnconfuserExTools)  | ConfuserEx deobfuscation toolkit (old).
-[XPEViewer](https://github.com/horsicq/XPEViewer) | PE file viewer (headers, libraries, strings, etc).
 
 ### Reverse Engineering
 Repository | Description
 ---- | ----
+[awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
 [cutter](https://github.com/rizinorg/cutter)  | Disassembler and decompiler for multiple executable formats, based on Rizin.
 [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Detect file type and packer used.
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and editor.
+[dotPeak](https://www.jetbrains.com/decompiler/)  | .NET Decompiler and assembly browser
 [gdb](https://www.sourceware.org/gdb/)  | CLI debugger.
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
 [ghidra](https://github.com/NationalSecurityAgency/ghidra)  | Disassembler and decompiler for multiple executable formats.
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
 [IDA](https://www.hex-rays.com/products/ida/index.shtml)  | Disassembler and decompiler for multiple executable formats.
 [rizin](https://github.com/rizinorg/rizin)  | CLI disassembler.
-[awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
+[XPEViewer](https://github.com/horsicq/XPEViewer) | PE file viewer (headers, libraries, strings, etc).
 
 ### Malware Analysis
 Repository | Description
