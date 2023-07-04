@@ -1,6 +1,9 @@
 # awesome-cyber
 A curated list of awesome cybersecurity tools for both red, blue, and purple team operations.
 
+## Contributions?
+Create an issue with suggestions and I'll add them :) The goal of this is to be actively maintained and up-to-date. 
+
 ## General
 
 ### Operating Systems
@@ -10,6 +13,7 @@ OS | Description
 [Kali](https://www.kali.org/) | Open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing.
 [Parrot](https://www.parrotsec.org/)  | Parrot Security (ParrotOS, Parrot) is a Free and Open source GNU/Linux distribution based on Debian Stable designed for security experts, developers and privacy aware people.
 [REMnux](https://remnux.org/) | Linux toolkit for reverse engineering malware.
+[fresh](https://git.landon.pw/r/fresh) | Fresh OS installation scripts to make deployment easy and reproducable. 
 
 ### Other awesome-Collections
 This repository is just a brief (and generalized) list of resources and tools for both sides of cyber: blue and red team operations. As such, this is not meant to be in-depth resources. If you are looking for more specific information and/or tools, this contains a list of resource collections.
