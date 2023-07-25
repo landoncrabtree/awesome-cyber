@@ -37,7 +37,8 @@ Repository | Description
 ### Defense Evasion
 Repository | Description
 ---- | ----
-[Amsi-Bypass-PowerShell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)  | AMSI bypasses (Most are patched, but can be obfuscated to bypass)
+[Amsi-Bypass-PowerShell
+](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)  | AMSI bypasses (Most are patched, but can be obfuscated to bypass)
 [AMSITrigger](https://github.com/RythmStick/AMSITrigger) | Finds which string(s) trigger AMSI.
 [chameleon](https://github.com/klezVirus/chameleon) | PowerShell Script Obfuscator
 [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)  | Used to bypass PowerShell security (logging, AMSI, etc).
@@ -145,10 +146,14 @@ Repository | Description
 [smbmap](https://github.com/ShawnDEvans/smbmap) | Enumerates SMB shares.
 
 ### Exfiltration
+Repository | Description
+---- | ----
 [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) | Data exfiltration over DNS request covert channel
 [PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 
 ### Credential Dumping
+Repository | Description
+---- | ----
 [certsync](https://github.com/zblurx/certsync) | Dump NTDS with golden certificates and UnPAC the hash
 [Dumpert](https://github.com/outflanknl/Dumpert) | LSASS memory dumper using direct system calls and API unhooking.
 [Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
@@ -203,5 +208,6 @@ Repository | Description
 
 ### Hardening
 Repository | Description
+---- | ----
 ---- | ----
 
