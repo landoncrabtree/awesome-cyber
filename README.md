@@ -2,7 +2,7 @@
 A curated list of awesome cybersecurity tools for both red, blue, and purple team operations.
 
 ## Contributions?
-Create an issue with suggestions and I'll add them :) The goal of this is to be actively maintained and up-to-date. 
+Contributions are welcome! The goal of this repository is to be an up-to-date source of tools for all facets of cybersecurity. The landscape changes constantly and so do the tools. It's hard keeping track of everything! If you want to add (or remove outdated) tools, feel free to create an issue or a PR. 
 
 ## General
 
