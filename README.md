@@ -29,6 +29,8 @@ Repository | Description
 [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)  | List of Awesome Red Teaming Resources.
 [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)  | A curated list of awesome malware analysis tools and resources.
 [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
+[awesome-forensics](https://github.com/cugu/awesome-forensics) | A curated list of awesome forensic analysis tools and resources
+[awesome-windows-post-exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation) | Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test.
 
 ## Red Team
 
@@ -37,8 +39,11 @@ Repository | Description
 ---- | ----
 [Amsi-Bypass-PowerShell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)  | AMSI bypasses (Most are patched, but can be obfuscated to bypass)
 [AMSITrigger](https://github.com/RythmStick/AMSITrigger) | Finds which string(s) trigger AMSI.
+[chameleon](https://github.com/klezVirus/chameleon) | PowerShell Script Obfuscator
 [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)  | Used to bypass PowerShell security (logging, AMSI, etc).
 [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation>)  | PowerShell module for obfuscating PowerShell scripts to bypass AV/EDR solutions.
+[ISESteroids](https://powershell.one/isesteroids/quickstart/overview) | Powerful extension for the built-in ISE PowerShell editor (has obfuscation module)
+[Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth) | Simple & Powerful PowerShell Script Obfuscator
 [UPX](https://upx.github.io/) | PE packer.
 [Unprotect](https://unprotect.it) | Contains malware evasion techniques along with PoC. 
 
@@ -99,9 +104,12 @@ Repository | Description
 ---- | ----
 [Easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) | Automatic Metasploit payload generator and shell listener.
 [GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
+[Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.
+[Kerbrute](https://github.com/ropnop/kerbrute) | A tool to perform Kerberos pre-auth bruteforcing
 [Medusa](https://github.com/jmk-foofus/medusa)  | Bruteforcer with multiple protocol support.
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.
+[TeamFiltration](https://github.com/Flangvik/TeamFiltration) | Cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
 [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) | Bruteforcer with multiple protocol support.
 [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) | Advanced password spraying tool for Active Directory environments.
 
@@ -119,25 +127,42 @@ Repository | Description
 ---- | ----
 [BeRoot](https://github.com/AlessandroZ/BeRoot) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
 [BloodHound](https://github.com/BloodHoundAD/BloodHound)  | Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.
+[CrackmapExec](https://github.com/mpgn/CrackMapExec) | Post-exploitation tool that helps automate assessing the security of large Active Directory networks
 [GTFOBins](https://gtfobins.github.io/) | Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 [Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.
 [Invoke-PrivescCheck](https://github.com/itm4n/PrivescCheck)  | Automated Windows privilege escalation path discovery tool.
 [LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) | Microsoft-signed binaries to perform APT or red-team functions (ie: dumping process memory).
 [Metasploit](https://github.com/rapid7/metasploit-framework)  | Exploit framework that can be used for intial access and/or post-exploitation.
 [Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
+[nishang](https://github.com/samratashok/nishang) | Offensive PowerShell for red team, penetration testing and offensive security.
 [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | Automated Windows, Linux, and Mac privilege escalation path discovery tool.
 [PowerHub](https://github.com/AdrianVollmer/PowerHub) | Post-exploitation module for bypassing endpoint protection and running arbitrary files.
 [PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 [PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) | Automated Windows privilege escalation path discovery tool.
+[Searchsploit](https://gitlab.com/exploit-database/exploitdb) | Search ExploitDB for exploits. Useful if you identify a service version.
 [SharpHound](https://github.com/BloodHoundAD/SharpHound)  | Data ingestor for BloodHound.
 [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | Allows connection to the SMB protocol.
 [smbmap](https://github.com/ShawnDEvans/smbmap) | Enumerates SMB shares.
 
 ### Exfiltration
+[DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) | Data exfiltration over DNS request covert channel
+[PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 
 ### Credential Dumping
+[certsync](https://github.com/zblurx/certsync) | Dump NTDS with golden certificates and UnPAC the hash
+[Dumpert](https://github.com/outflanknl/Dumpert) | LSASS memory dumper using direct system calls and API unhooking.
+[Mimikatz](https://github.com/ParrotSec/mimikatz) | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.
+[nishang](https://github.com/samratashok/nishang) | Offensive PowerShell for red team, penetration testing and offensive security.
+[PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 
-## Blue Team (WIP)
+## Blue Team
+
+### Forensics
+Repository | Description
+---- | ----
+[Autopsy](https://github.com/sleuthkit/autopsy) | Investigate disk images
+[Volatility](https://github.com/volatilityfoundation/volatility) | An advanced memory forensics framework
+[Wireshark](https://www.wireshark.org/) | Network traffic packet analyzer
 
 ### Deobfuscation
 Repository | Description
@@ -145,6 +170,7 @@ Repository | Description
 [cfxc-deobf](https://github.com/wildcardc/cfxc-deobf) | ConfuserEx unpacker.
 [de4dot-cex](https://github.com/ViRb3/de4dot-cex) | ConfuserEx unpacker.
 [de4dot](https://github.com/de4dot/de4dot)  | .NET deobfuscator and unpacker.
+[FLOSS](https://github.com/mandiant/flare-floss) | Automatically extract obfuscated strings from malware.
 [NoFuserEx](https://github.com/undebel/NoFuserEx) | ConfuserEx unpacker.
 [Packer-specific Unpackers](https://github.com/NotPrab/.NET-Deobfuscator/blob/master/README.md) | List of unpackers for specific packers.
 [PSDecode](https://github.com/R3MRUM/PSDecode)  | PowerShell deobfuscator. 
@@ -154,15 +180,18 @@ Repository | Description
 Repository | Description
 ---- | ----
 [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
+[Cerberus](https://github.com/h311d1n3r/Cerberus) | A Python tool to unstrip Rust/Go binaries on Linux
 [cutter](https://github.com/rizinorg/cutter)  | Disassembler and decompiler for multiple executable formats, based on Rizin.
 [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Detect file type and packer used.
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and editor.
 [dotPeak](https://www.jetbrains.com/decompiler/)  | .NET Decompiler and assembly browser
-[gdb](https://www.sourceware.org/gdb/)  | CLI debugger.
+[FLOSS](https://github.com/mandiant/flare-floss) | Automatically extract obfuscated strings from malware.
+[GDB](https://www.sourceware.org/gdb/)  | CLI debugger.
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
 [ghidra](https://github.com/NationalSecurityAgency/ghidra)  | Disassembler and decompiler for multiple executable formats.
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
 [IDA](https://www.hex-rays.com/products/ida/index.shtml)  | Disassembler and decompiler for multiple executable formats.
+[PEiD](https://github.com/wolfram77web/app-peid) | detects most common packers, cryptors and compilers for PE files.
 [rizin](https://github.com/rizinorg/rizin)  | CLI disassembler.
 [XPEViewer](https://github.com/horsicq/XPEViewer) | PE file viewer (headers, libraries, strings, etc).
 
@@ -171,4 +200,8 @@ Repository | Description
 ---- | ----
 [Cuckoo](https://cuckoosandbox.org/)  | Automated dynamic malware analysis.
 [Wireshark](https://www.wireshark.org/download.html)  | View incoming and outgoing network connections.
+
+### Hardening
+Repository | Description
+---- | ----
 
