@@ -37,8 +37,7 @@ Repository | Description
 ### Defense Evasion
 Repository | Description
 ---- | ----
-[Amsi-Bypass-PowerShell
-](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)  | AMSI bypasses (Most are patched, but can be obfuscated to bypass)
+[Amsi-Bypass-PowerShell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)  | AMSI bypasses (Most are patched, but can be obfuscated to bypass)
 [AMSITrigger](https://github.com/RythmStick/AMSITrigger) | Finds which string(s) trigger AMSI.
 [chameleon](https://github.com/klezVirus/chameleon) | PowerShell Script Obfuscator
 [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)  | Used to bypass PowerShell security (logging, AMSI, etc).
