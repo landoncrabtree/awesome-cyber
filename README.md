@@ -4,6 +4,11 @@ A curated list of awesome cybersecurity tools for both red, blue, and purple tea
 ## Contributions?
 Contributions are welcome! The goal of this repository is to be an up-to-date source of tools for all facets of cybersecurity. The landscape changes constantly and so do the tools. It's hard keeping track of everything! If you want to add (or remove outdated) tools, feel free to create an issue or a PR. 
 
+## Quick links
+* [#red-team](Red Team Tools)
+* [#blue-team](Blue Team Tools)
+* [#ctf](CTF Tools - things like stego, 
+
 ## General
 
 ### Operating Systems
@@ -50,6 +55,7 @@ Repository | Description
 ### OSINT
 Repository | Description
 ---- | ----
+[Cloudmare](https://github.com/mrh0wl/Cloudmare) |  Cloudflare, Sucuri, Incapsula real IP tracker. 
 [crt.sh](https://crt.sh)  | Find certificates based on a domain name. Can be used to find subdomains.
 [DorkSearch](https://dorksearch.com/) | Premade Google dork queries.
 [ExifTool](https://exiftool.org)  | Read (and modify) metadata of files.
@@ -83,6 +89,7 @@ Repository | Description
 [Rustscan](https://github.com/RustScan/RustScan)  | A rust network scanner that is faster than Nmap, and sends open ports to Nmap for service/version detection.
 [sqlmap](https://github.com/sqlmapproject/sqlmap) | Performs automated SQL injection tests on GET and POST requests.
 [subfinder](https://github.com/projectdiscovery/subfinder)  | Passive subdomain discovery tool.
+[wappalyzer](https://www.wappalyzer.com/) | Identify what frameworks a website runs
 [wpscan](https://github.com/wpscanteam/wpscan)  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.
 
 ### Social Engineering
@@ -98,6 +105,22 @@ Repository | Description
 [Dehashed](https://dehashed.com)  | Leaked credential search engine to find passwords based on username, email, etc.
 [LeakCheck](https://leakcheck.com)  | Leaked credential search engine to find passwords based on username, email, domain, etc.
 [Snusbase](https://snusbase.com)  | Leaked credential search engine to find passwords based on username, email, etc.
+
+### Web Exploitation
+Repository | Description
+---- | ----
+[Burpsuite](https://portswigger.net/burp/communitydownload) | Full web testing suite, including proxied requests
+[Caido](https://caido.io/) | Like Burp but written in Rust
+[dotGit](https://github.com/davtur19/DotGit) | A Firefox and Chrome extension that shows you if there is an exposed `.git` directory 
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master) | Useful payloads for a variety of attacks such as SQLi, IDOR, XSS, etc.
+[wpscan](https://github.com/wpscanteam/wpscan)  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.
+
+### Wireless
+[Aircrack-ng](https://www.aircrack-ng.org) | Aircrack-ng is a complete suite of tools to assess WiFi network security.
+[Kismet](https://www.kismetwireless.net/) | sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more
+[Reaver](https://github.com/t6x/reaver-wps-fork-t6x) | Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases
+[Wifite](https://www.kali.org/tools/wifite/) | Python script to automate wireless auditing using aircrack-ng tools
+[WifiPhisher](https://github.com/wifiphisher/wifiphisher) |  The Rogue Access Point Framework 
 
 ### Initial Access
 Repository | Description
@@ -159,12 +182,25 @@ Repository | Description
 [nishang](https://github.com/samratashok/nishang) | Offensive PowerShell for red team, penetration testing and offensive security.
 [PowerSploit](https://github.com/AdrianVollmer/PowerSploit) | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.
 
+### Password Cracking
+Repository | Description
+---- | ----
+[CeWL](https://github.com/digininja/CeWL) | Scrape a website to generate a wordlist 
+[crunch](https://github.com/jim3ma/crunch) | Generate wordlists based on requirements such as minimum and maximum length, character sets, etc.
+[Cupp](https://github.com/Mebus/cupp) | Utilize OSINT to create password candidates for a specific person
+[hashcat](https://hashcat.net/hashcat) | Password cracking tool with multiple different supported formats
+[JohnTheRipper](https://www.openwall.com/john/) | Password cracking tool (slower than Hashcat) but supports more formats with the Jumbo version
+[Mentalist](https://github.com/sc0tfree/mentalist) | A GUI for wordlisst generation
+
 ## Blue Team
 
 ### Forensics
 Repository | Description
 ---- | ----
 [Autopsy](https://github.com/sleuthkit/autopsy) | Investigate disk images
+[Chainsaw](https://github.com/WithSecureLabs/chainsaw) |  Rapidly Search and Hunt through Windows Forensic Artefacts
+[FTK Imager](https://www.exterro.com/ftk-imager) | Investigate disk images
+[Velociraptor](https://github.com/Velocidex/velociraptor) | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 [Volatility](https://github.com/volatilityfoundation/volatility) | An advanced memory forensics framework
 [Wireshark](https://www.wireshark.org/) | Network traffic packet analyzer
 
@@ -194,6 +230,7 @@ Repository | Description
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
 [ghidra](https://github.com/NationalSecurityAgency/ghidra)  | Disassembler and decompiler for multiple executable formats.
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
+[JADX](https://github.com/skylot/jadx) |  decompilation tool that can decompile JAR, APK, DEX, AAR, AAB, ZIP files
 [IDA](https://www.hex-rays.com/products/ida/index.shtml)  | Disassembler and decompiler for multiple executable formats.
 [PEiD](https://github.com/wolfram77web/app-peid) | detects most common packers, cryptors and compilers for PE files.
 [rizin](https://github.com/rizinorg/rizin)  | CLI disassembler.
@@ -208,5 +245,11 @@ Repository | Description
 ### Hardening
 Repository | Description
 ---- | ----
----- | ----
+
+## CTF
+
+Coming soon?
+
+
+
 
