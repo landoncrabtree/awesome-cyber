@@ -107,11 +107,9 @@ Repository | Description
 [Masscan](https://github.com/robertdavidgraham/masscan) | Like nmap, but faster (thus, not stealthy.)
 [Nikto](https://github.com/sullo/nikto) | Web server scanner to perform security checks on a web server.
 [Nmap](https://nmap.org/) | Find running services on a network.
-[nosqlmap](https://github.com/codingo/NoSQLMap) | Like sqlmap, but for NoSQL.
 [Raccoon](https://github.com/evyatarmeged/Raccoon)  | All-in-one Reconaissance. Port/service scans, dirbusting, and web application retrieval.
 [Recon-NG](https://github.com/lanmaster53/recon-ng) | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.
 [Rustscan](https://github.com/RustScan/RustScan)  | A rust network scanner that is faster than Nmap, and sends open ports to Nmap for service/version detection.
-[sqlmap](https://github.com/sqlmapproject/sqlmap) | Performs automated SQL injection tests on GET and POST requests.
 [subfinder](https://github.com/projectdiscovery/subfinder)  | Passive subdomain discovery tool.
 [wappalyzer](https://www.wappalyzer.com/) | Identify what frameworks a website runs
 [wpscan](https://github.com/wpscanteam/wpscan)  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.
@@ -133,12 +131,20 @@ Repository | Description
 ### Web Exploitation
 Repository | Description
 ---- | ----
-[Burpsuite](https://portswigger.net/burp/communitydownload) | Full web testing suite, including proxied requests
+[Arachni](https://github.com/Arachni/arachni) |  Web Application Security Scanner Framework
+[burpsuite](https://portswigger.net/burp/communitydownload) | Full web testing suite, including proxied requests
 [Caido](https://caido.io/) | Like Burp but written in Rust
+[dirb](https://github.com/v0re/dirb)  | Web application directory/file fuzzer to find other pages or files worth looking at.
 [dotGit](https://github.com/davtur19/DotGit) | A Firefox and Chrome extension that shows you if there is an exposed `.git` directory 
+[feroxbuster](https://github.com/epi052/feroxbuster)  | Web application directory/file fuzzer to find other pages or files worth looking at. Written in Rust.
+[gobuster](https://github.com/OJ/gobuster)  | Web application directory/file fuzzer to find other pages or files worth looking at. Also supports DNS busting (such as subdomains). Written in Go.
+[Nikto](https://github.com/sullo/nikto) | Web server scanner to perform security checks on a web server.
+[nosqlmap](https://github.com/codingo/NoSQLMap) | Like sqlmap, but for NoSQL.
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master) | Useful payloads for a variety of attacks such as SQLi, IDOR, XSS, etc.
+[sqlmap](https://github.com/sqlmapproject/sqlmap) | Performs automated SQL injection tests on GET and POST requests.
+[w3af](https://w3af.org/) | Web application attack and audit framework.
+[wappalyzer](https://www.wappalyzer.com/) | Identify what frameworks a website runs
 [wpscan](https://github.com/wpscanteam/wpscan)  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.
-
 ### Wireless
 Repository | Description
 ---- | ----
