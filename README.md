@@ -205,6 +205,7 @@ Repository | Description
 [Velociraptor](https://github.com/Velocidex/velociraptor) | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 [Volatility](https://github.com/volatilityfoundation/volatility) | An advanced memory forensics framework
 [Wireshark](https://www.wireshark.org/) | Network traffic packet analyzer
+[ZimmermanTools](https://ericzimmerman.github.io) | Eric Zimmerman's toolset for Windows forensics. EVTX, registry, ShellBags, ShimCache, and more.
 
 ### Deobfuscation
 Repository | Description
