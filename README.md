@@ -4,6 +4,10 @@ A curated list of awesome cybersecurity tools for both red, blue, and purple tea
 ## Contributions?
 Contributions are welcome! The goal of this repository is to be an up-to-date source of tools for all facets of cybersecurity. The landscape changes constantly and so do the tools. It's hard keeping track of everything! If you want to add (or remove outdated) tools, feel free to create an issue or a PR. 
 
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=landoncrabtree/awesome-cyber"/>
+</a>
+
 ## Quick links
 * [Red Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#red-team)
 * [Blue Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#blue-team)
