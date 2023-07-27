@@ -228,7 +228,7 @@ Repository | Description
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and editor.
 [dotPeak](https://www.jetbrains.com/decompiler/)  | .NET Decompiler and assembly browser
 [FLOSS](https://github.com/mandiant/flare-floss) | Automatically extract obfuscated strings from malware.
-[GDB](https://www.sourceware.org/gdb/)  | CLI debugger.
+[GDB](https://www.sourceware.org/gdb/)  | Debugging tool for C, C++, Go, Rust, and more. 
 [GEF](https://github.com/hugsy/gef) | GDB addon with advanced features -- GDB Enhanced Features.
 [ghidra](https://github.com/NationalSecurityAgency/ghidra)  | Disassembler and decompiler for multiple executable formats.
 [hexedit](https://github.com/pixel/hexedit) | View file hexadecimal.
@@ -247,6 +247,13 @@ Repository | Description
 ### Hardening
 Repository | Description
 ---- | ----
+[BLUESPAWN](https://github.com/ION28/BLUESPAWN) |  An Active Defense and EDR software to empower Blue Teams 
+[CISBenchmarks](https://downloads.cisecurity.org/#/) | Benchmark for security configuration best practices
+[HardeningKitty](https://github.com/0x6d69636b/windows_hardening) |  HardeningKitty and Windows Hardening settings and configurations 
+[Linux Hardening](https://madaidans-insecurities.github.io/guides/linux-hardening.html) | Linux Hardening
+[SteamRoller](https://github.com/Msfv3n0m/SteamRoller) | automating basic security configurations across an Active Directory environment 
+
+
 
 ## CTF
 
