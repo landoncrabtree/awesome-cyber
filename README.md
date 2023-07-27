@@ -5,9 +5,9 @@ A curated list of awesome cybersecurity tools for both red, blue, and purple tea
 Contributions are welcome! The goal of this repository is to be an up-to-date source of tools for all facets of cybersecurity. The landscape changes constantly and so do the tools. It's hard keeping track of everything! If you want to add (or remove outdated) tools, feel free to create an issue or a PR. 
 
 ## Quick links
-* [#red-team](Red Team Tools)
-* [#blue-team](Blue Team Tools)
-* [#ctf](CTF Tools - things like stego, 
+* [Red Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#red-team)
+* [Blue Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#blue-team)
+* [CTF stuff](https://github.com/landoncrabtree/awesome-cyber/tree/main#ctf)
 
 ## General
 
