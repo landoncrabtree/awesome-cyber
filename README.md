@@ -9,8 +9,28 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 </a>
 
 ## Quick links
-* [Red Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#red-team)
-* [Blue Team Tools](https://github.com/landoncrabtree/awesome-cyber/tree/main#blue-team)
+* [General](#general)
+    * [Operating Systems](#operating-systems)
+    * [Other awesome-Collections](#other-awesome-collections)
+* [Red Team Tools](#red-team)
+    * [Defense Evasion](#defense-evasion)
+    * [OSINT](#osint)
+    * [Reconaissance](#reconaissance)
+    * [Social Engineering](#social-engineering)
+    * [Leaked Credentials](#leaked-credentials)
+    * [Web Exploitation](#web-exploitation)
+    * [Wireless](#wireless)
+    * [Initial Access](#initial-access)
+    * [C2 Frameworks](#c2-frameworks)
+    * [Post Exploitation](#post-exploitation)
+    * [Exfiltration](#exfiltration)
+    * [Credential Dumping](#credential-dumping)
+* [Blue Team Tools](#blue-team)
+    * [Forensics](#forensics)
+    * [Deobfuscation](#deobfuscation)
+    * [Reverse Engineering](#reverse-engineering)
+    * [Malware Analysis](#malware-analysis)
+    * [Hardening](#hardening)
 * [CTF stuff](https://github.com/landoncrabtree/awesome-cyber/tree/main#ctf)
 
 ## General
