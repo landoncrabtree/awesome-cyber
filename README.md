@@ -59,6 +59,7 @@ Repository | Description
 [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)  | A curated list of awesome malware analysis tools and resources.
 [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc. 
 [awesome-forensics](https://github.com/cugu/awesome-forensics) | A curated list of awesome forensic analysis tools and resources
+[awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) | Tools for PCAP files
 [awesome-windows-post-exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation) | Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test.
 
 ## Red Team
@@ -84,6 +85,7 @@ Repository | Description
 [DorkSearch](https://dorksearch.com/) | Premade Google dork queries.
 [ExifTool](https://exiftool.org)  | Read (and modify) metadata of files.
 [Hunter](https://hunter.io)  | Find company email format and list of employee email addresses.
+[osintframework[(https://osintframework.com/) | An online database of OSINT tools.
 [Recon-NG](https://github.com/lanmaster53/recon-ng) | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.
 [ScrapeIn](https://github.com/landoncrabtree/ScrapeIn)  | Scrapes LinkedIn to create a list of employee email addresses (for use in Initial Access).
 [SecurityTrails](https://securitytrails.com)  | Extensive DNS information.
@@ -117,9 +119,11 @@ Repository | Description
 ### Social Engineering
 Repository | Description
 ---- | ----
+[evilginx](https://github.com/kgretzky/evilginx2) | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 [GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
 [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)  | Social engineering framework. 
 [SpoofCheck](https://github.com/BishopFox/spoofcheck) | Checks if a domain can be spoofed.
+[zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates.
 
 ### Leaked Credentials
 Repository | Description
@@ -158,7 +162,6 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) | Automatic Metasploit payload generator and shell listener.
-[GoPhish](https://github.com/gophish/gophish>) | Phishing campaign framework to compromise user credentials.
 [Impacket](https://github.com/SecureAuthCorp/impacket)  | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.
 [Kerbrute](https://github.com/ropnop/kerbrute) | A tool to perform Kerberos pre-auth bruteforcing
 [Medusa](https://github.com/jmk-foofus/medusa)  | Bruteforcer with multiple protocol support.
