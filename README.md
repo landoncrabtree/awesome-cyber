@@ -141,6 +141,7 @@ Repository | Description
 [dirb](https://github.com/v0re/dirb)  | Web application directory/file fuzzer to find other pages or files worth looking at.
 [dotGit](https://github.com/davtur19/DotGit) | A Firefox and Chrome extension that shows you if there is an exposed `.git` directory 
 [feroxbuster](https://github.com/epi052/feroxbuster)  | Web application directory/file fuzzer to find other pages or files worth looking at. Written in Rust.
+[flask-unsign](https://github.com/Paradoxis/Flask-Unsign) | Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application
 [gobuster](https://github.com/OJ/gobuster)  | Web application directory/file fuzzer to find other pages or files worth looking at. Also supports DNS busting (such as subdomains). Written in Go.
 [Nikto](https://github.com/sullo/nikto) | Web server scanner to perform security checks on a web server.
 [nosqlmap](https://github.com/codingo/NoSQLMap) | Like sqlmap, but for NoSQL.
