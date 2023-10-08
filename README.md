@@ -84,8 +84,10 @@ Repository | Description
 [crt.sh](https://crt.sh)  | Find certificates based on a domain name. Can be used to find subdomains.
 [DorkSearch](https://dorksearch.com/) | Premade Google dork queries.
 [ExifTool](https://exiftool.org)  | Read (and modify) metadata of files.
+[FaceCheck.ID](https://facecheck.id) | Reverse image lookup based on facial-recognition.
 [Hunter](https://hunter.io)  | Find company email format and list of employee email addresses.
 [osintframework[(https://osintframework.com/) | An online database of OSINT tools.
+[PimEyes](https://pimeyes.com/) | Reverse image lookup based on facial-recognition.
 [Recon-NG](https://github.com/lanmaster53/recon-ng) | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.
 [ScrapeIn](https://github.com/landoncrabtree/ScrapeIn)  | Scrapes LinkedIn to create a list of employee email addresses (for use in Initial Access).
 [SecurityTrails](https://securitytrails.com)  | Extensive DNS information.
