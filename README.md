@@ -285,10 +285,10 @@ Repository | Description
 Repository | Description
 ---- | ----
 [BLUESPAWN](https://github.com/ION28/BLUESPAWN) |  An Active Defense and EDR software to empower Blue Teams 
-[CISBenchmarks](https://downloads.cisecurity.org/#/) | Benchmark for security configuration best practices
-[HardeningKitty](https://github.com/0x6d69636b/windows_hardening) |  HardeningKitty and Windows Hardening settings and configurations 
+[CISBenchmarks](https://downloads.cisecurity.org) | Benchmark for security configuration best practices
+[HardeningKitty](https://github.com/0x6d69636b/windows_hardening) | HardeningKitty and Windows Hardening settings and configurations 
 [Linux Hardening](https://madaidans-insecurities.github.io/guides/linux-hardening.html) | Linux Hardening
-[SteamRoller](https://github.com/Msfv3n0m/SteamRoller) | automating basic security configurations across an Active Directory environment 
+[SteamRoller](https://github.com/Msfv3n0m/SteamRoller) | Automating basic security configurations across an Active Directory environment 
 
 
 
