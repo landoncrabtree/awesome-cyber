@@ -100,7 +100,7 @@ Repository | Description
 [altdns](https://github.com/infosec-au/altdns)  | Subdomain enumeration using mutated wordlists.
 [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) | Enumerate AWS S3 buckets to find interesting files.
 [burpsuite](https://portswigger.net/burp) | An advanced web application testing suite that can be used to get info on how webpages work.
-[https://github.com/Ullaakut/cameradar](CameRadar) |  Cameradar hacks its way into RTSP videosurveillance cameraa
+[CameRadar](https://github.com/Ullaakut/cameradar) |  Cameradar hacks its way into RTSP videosurveillance cameraa
 [CloudBrute](https://github.com/0xsha/CloudBrute) | Enumerates "the cloud" (Google, AWS, DigitalOcean, etc) to find infrastructure, files, and apps for a given target.
 [dirb](https://github.com/v0re/dirb)  | Web application directory / file fuzzer to find other pages.
 [DNSDumpster](https://dnsdumpster.com/) | Online tool for DNS information of a domain.
