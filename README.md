@@ -235,9 +235,11 @@ Repository | Description
 ### Forensics
 Repository | Description
 ---- | ----
+[Angle-Grinder](https://github.com/rcoh/angle-grinder)  |  Slice and dice logs on the command line 
 [Autopsy](https://github.com/sleuthkit/autopsy) | Investigate disk images
 [Chainsaw](https://github.com/WithSecureLabs/chainsaw) |  Rapidly Search and Hunt through Windows Forensic Artefacts
 [FTK Imager](https://www.exterro.com/ftk-imager) | Investigate disk images
+[Magika](https://github.com/google/magika)  |  Detect file content types with deep learning 
 [Velociraptor](https://github.com/Velocidex/velociraptor) | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 [Volatility](https://github.com/volatilityfoundation/volatility) | An advanced memory forensics framework
 [Wireshark](https://www.wireshark.org/) | Network traffic packet analyzer
