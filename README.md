@@ -130,8 +130,10 @@ Repository | Description
 ### Leaked Credentials
 Repository | Description
 ---- | ----
+[BreachDirectory](https://breachdirectory.org/) | Leaked credential search engine to find passwords based on username, email, etc.
 [Dehashed](https://dehashed.com) | Leaked credential search engine to find passwords based on username, email, etc.
-[LeakCheck](https://leakcheck.com) | Leaked credential search engine to find passwords based on username, email, domain, etc.
+[IntelligenceX](https://intelx.io/) | Leaked credential search engine to find passwords based on username, email, domain, etc.
+[LeakCheck](https://leakcheck.io/) | Leaked credential search engine to find passwords based on username, email, domain, etc.
 [Snusbase](https://snusbase.com) | Leaked credential search engine to find passwords based on username, email, etc.
 
 ### Web Exploitation
